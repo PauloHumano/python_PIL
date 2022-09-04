@@ -6,7 +6,7 @@ apelllido = "humano"
 print(2 + 2)
 print('salto \n de linea')
 print('tabulacion \t de linea')
-print('hola','mundo', sep='+')
+print('hola', 'mundo', sep='+')
 
 # Entrada de datos
 input('ingrese mensaje :')

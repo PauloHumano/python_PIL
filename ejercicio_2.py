@@ -43,5 +43,5 @@ def save_as_text(ascii_art):
 if __name__ == '__main__':
     main()
 
-    archivo=open('image.txt')
+    archivo = open('image.txt')
     print(archivo.read())
