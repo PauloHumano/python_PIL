@@ -15,3 +15,9 @@ for i in range(3):
 print(lista)
 
 # While
+x = 10
+
+while x > 0
+    print(x)
+    
+    x =-1
