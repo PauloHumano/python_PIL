@@ -10,9 +10,9 @@ while True:
     print('\t 4.salir')
     print('ingrese opcion', end='\t')
     opcion = int(input())
-    if opcion > 4 :
+    if opcion > 4:
         print('\n vuelva a intentar')
-    elif opcion == 0 :
+    elif opcion == 0:
         print('\n vuelva a intentar')
     elif opcion == 1:
         print('ingrese monto deposito', end=' ')
